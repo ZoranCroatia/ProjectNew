@@ -1,0 +1,114 @@
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\ApplicationInsights.config
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\csc.exe
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\System.Collections.Immutable.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\vbc.exe
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\VBCSCompiler.exe
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\roslyn\VBCSCompiler.exe.config
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\ProjectAutos.dll.config
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\ProjectAutos.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\ProjectAutos.pdb
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Antlr3.Runtime.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.AI.Web.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.AI.WindowsServer.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.ApplicationInsights.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.Web.Infrastructure.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Newtonsoft.Json.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.Helpers.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.Mvc.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.Optimization.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.Razor.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.Deployment.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.Razor.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\WebGrease.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.AI.Web.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.AI.WindowsServer.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.ApplicationInsights.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.Helpers.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.Mvc.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.Optimization.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.Razor.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.Deployment.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.Razor.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Antlr3.Runtime.pdb
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\bin\Newtonsoft.Json.xml
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\obj\Debug\ProjectAutos.csprojResolveAssemblyReference.cache
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\obj\Debug\ProjectAutos.dll
+c:\users\zoran\documents\visual studio 2015\Projects\ProjectAutos\ProjectAutos\obj\Debug\ProjectAutos.pdb
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\ApplicationInsights.config
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\csc.exe
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\vbc.exe
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\ProjectAutos.dll.config
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\ProjectAutos.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\ProjectAutos.pdb
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Antlr3.Runtime.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\EntityFramework.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\EntityFramework.SqlServer.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.AI.Web.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Newtonsoft.Json.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.Helpers.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.Mvc.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.Optimization.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.Razor.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\WebGrease.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\EntityFramework.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\EntityFramework.SqlServer.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.AI.Web.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.Helpers.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.Mvc.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.Optimization.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.Razor.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Antlr3.Runtime.pdb
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\Newtonsoft.Json.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\obj\Debug\ProjectAutos.csprojResolveAssemblyReference.cache
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\obj\Debug\ProjectAutos.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\obj\Debug\ProjectAutos.pdb
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\PagedList.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\PagedList.Mvc.dll
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\PagedList.xml
+C:\Users\Zoran\Desktop\ProjectAutos\ProjectAutos\bin\PagedList.Mvc.xml
